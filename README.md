@@ -12,4 +12,4 @@ Unfortunately, using `plugin` does not give Vault Agent the awareness of the cer
 `vault agent -config=vault-agent-exit-auth.hcl`
 
 # Verify Certs
-sh verify.sh
+`sh verify.sh`
